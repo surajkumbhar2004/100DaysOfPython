@@ -1,7 +1,7 @@
 **100 Days of Python**
 Welcome to my 100 Days of Python challenge! This repository documents my journey of learning and mastering Python by solving coding problems every day for 100 days. Each day, I upload new Python problems along with their solutions to improve my programming skills and share my progress with the community.
 
-
+s
 **The goal of this challenge is to:**
 Build a strong foundation in Python programming.
 Solve a variety of coding problems to enhance problem-solving skills.
